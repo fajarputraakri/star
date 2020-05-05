@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
     { author: "fajarputraakri", quotes: "Semoga hari kalian menyenangkan" },
-    { author: "fajarputraakri", quotes: "Jangan lupa ibadah" },
-    { author: "fajarputraakri", quotes: "Hey! I wuv chuuuu! UwU" },
+    { author: "fajarputraakri", quotes: "Jangan lupa bahagia" },
+    { author: "fajarputraakri", quotes: "Ayo bangkit, kamu bisa kok" },
+    { author: "fajarputraakri", quotes: "Kamu hebat kok" },
+    { author: "fajarputraakri", quotes: "Ayoo, semangat" },
     { author: "fajarputraakri", quotes: "I love you." },
-    { author: "fajarputraakri", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "fajarputraakri", quotes: "I love you." },
-    { author: "fajarputraakri", quotes: "I'm sorry for loving you." },
+    { author: "fajarputraakri", quotes: "Sabar, semua akan indah kok" },
 ];
